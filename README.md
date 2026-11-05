@@ -7,6 +7,8 @@ Two hands-on workshops for people who know a little Python and are new to PyTorc
 | [1. PyTorch fundamentals](notebooks/pytorch_fundamentals_mbarara.ipynb) | 25 min | Use tensors and train a clothing classifier on Fashion-MNIST. |
 | [2. Transfer learning with bean leaves](notebooks/pytorch_transfer_learning_beans_mbarara.ipynb) | 25 min | Adapt ResNet18 to classify bean leaf images from [Makerere AI Lab's Beans dataset](https://huggingface.co/datasets/AI-Lab-Makerere/beans). |
 
+[Download the PowerPoint slides for both workshops](slides/pytorch-meetup-mbarara-workshops.pptx).
+
 ## Run in a browser
 
 Download the notebook you want from the table, then upload it to [Google Colab](https://colab.research.google.com/). For workshop 2, run `%pip install datasets` in a new cell before running the workshop cells. A CPU is enough for workshop 1. A GPU, if available, speeds up workshop 2.
